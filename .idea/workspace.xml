@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="180f28bf-9432-4598-bf9f-afd3a998c1a3" name="Changes" comment="p">
-      <change afterPath="$PROJECT_DIR$/B_2438.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="180f28bf-9432-4598-bf9f-afd3a998c1a3" name="Changes" comment="p" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,20 +29,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.B_1000.executor&quot;: &quot;Run&quot;,
-    &quot;Python.B_1001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.B_1008.executor&quot;: &quot;Run&quot;,
-    &quot;Python.B_1152.executor&quot;: &quot;Run&quot;,
-    &quot;Python.B_1157.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.B_1330.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Unnamed.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.B_1000.executor": "Run",
+    "Python.B_1001.executor": "Run",
+    "Python.B_1008.executor": "Run",
+    "Python.B_1152.executor": "Run",
+    "Python.B_1157.executor": "Debug",
+    "Python.B_1330.executor": "Run",
+    "Python.B_2438.executor": "Run",
+    "Python.Unnamed.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonTest" />
@@ -151,7 +149,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713679309899</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="p">
+      <option name="closed" value="true" />
+      <created>1713774686136</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1713774686137</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
