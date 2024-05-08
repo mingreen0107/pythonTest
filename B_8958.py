@@ -1,17 +1,16 @@
 # "OOXXOXXOOO"의 점수는 1+2+0+0+1+0+0+1+2+3 = 10점
 
-def count(S):
-    count = 0
-    S = list(S)
-
-    for i in S:
-        if (i=='O'):
-            count += 1
-
-    print(count)
-
 N = int(input())
 
 for i in range(N):
-    S = input()
-    count(S)
+    a = input()
+    score = 0
+    sumScore = 0
+
+    for j in a:
+        if j == 'O':
+            score += 1
+        else:
+            score = 0
+        sumScore += score
+    print(sumScore)

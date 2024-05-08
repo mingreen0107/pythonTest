@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="180f28bf-9432-4598-bf9f-afd3a998c1a3" name="Changes" comment="p">
-      <change afterPath="$PROJECT_DIR$/B_8958.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +68,7 @@
     "Python.B_2884.executor": "Run",
     "Python.B_2920.executor": "Run",
     "Python.B_3052.executor": "Run",
-    "Python.B_8958.executor": "Debug",
+    "Python.B_8958.executor": "Run",
     "Python.Unnamed.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -325,7 +324,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715091858847</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="p">
+      <option name="closed" value="true" />
+      <created>1715145066386</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1715145066386</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
