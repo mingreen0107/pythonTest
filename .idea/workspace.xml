@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="180f28bf-9432-4598-bf9f-afd3a998c1a3" name="Changes" comment="p">
+      <change afterPath="$PROJECT_DIR$/B_9498.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,34 +48,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.B_1000.executor": "Run",
-    "Python.B_1001.executor": "Run",
-    "Python.B_1008.executor": "Run",
-    "Python.B_1152.executor": "Run",
-    "Python.B_1157.executor": "Debug",
-    "Python.B_1330.executor": "Run",
-    "Python.B_2438.executor": "Run",
-    "Python.B_2439.executor": "Run",
-    "Python.B_2475.executor": "Run",
-    "Python.B_2557.executor": "Run",
-    "Python.B_2562.executor": "Run",
-    "Python.B_2577.executor": "Run",
-    "Python.B_2675.executor": "Run",
-    "Python.B_2739.executor": "Run",
-    "Python.B_2741.executor": "Run",
-    "Python.B_2753.executor": "Run",
-    "Python.B_2884.executor": "Run",
-    "Python.B_2920.executor": "Run",
-    "Python.B_3052.executor": "Run",
-    "Python.B_8958.executor": "Run",
-    "Python.Unnamed.executor": "Debug",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.B_1000.executor&quot;: &quot;Run&quot;,
+    &quot;Python.B_1001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.B_1008.executor&quot;: &quot;Run&quot;,
+    &quot;Python.B_1152.executor&quot;: &quot;Run&quot;,
+    &quot;Python.B_1157.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.B_1330.executor&quot;: &quot;Run&quot;,
+    &quot;Python.B_2438.executor&quot;: &quot;Run&quot;,
+    &quot;Python.B_2439.executor&quot;: &quot;Run&quot;,
+    &quot;Python.B_2475.executor&quot;: &quot;Run&quot;,
+    &quot;Python.B_2557.executor&quot;: &quot;Run&quot;,
+    &quot;Python.B_2562.executor&quot;: &quot;Run&quot;,
+    &quot;Python.B_2577.executor&quot;: &quot;Run&quot;,
+    &quot;Python.B_2675.executor&quot;: &quot;Run&quot;,
+    &quot;Python.B_2739.executor&quot;: &quot;Run&quot;,
+    &quot;Python.B_2741.executor&quot;: &quot;Run&quot;,
+    &quot;Python.B_2753.executor&quot;: &quot;Run&quot;,
+    &quot;Python.B_2884.executor&quot;: &quot;Run&quot;,
+    &quot;Python.B_2920.executor&quot;: &quot;Run&quot;,
+    &quot;Python.B_3052.executor&quot;: &quot;Run&quot;,
+    &quot;Python.B_8958.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Unnamed.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonTest" />
@@ -332,7 +333,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715145066386</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="p">
+      <option name="closed" value="true" />
+      <created>1715182404554</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1715182404554</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
