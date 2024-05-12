@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="180f28bf-9432-4598-bf9f-afd3a998c1a3" name="Changes" comment="p">
-      <change afterPath="$PROJECT_DIR$/B_10871.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B_27866.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B_10871.py" beforeDir="false" afterPath="$PROJECT_DIR$/B_10871.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +73,7 @@
     "Python.B_2739.executor": "Run",
     "Python.B_2741.executor": "Run",
     "Python.B_2753.executor": "Run",
+    "Python.B_27866.executor": "Run",
     "Python.B_2884.executor": "Run",
     "Python.B_2920.executor": "Run",
     "Python.B_3052.executor": "Run",
@@ -371,7 +373,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715306897715</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="p">
+      <option name="closed" value="true" />
+      <created>1715498538189</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1715498538189</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -427,21 +437,6 @@
           <option name="timeStamp" value="36" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/B_3052.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="38" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/B_3052.py</url>
-          <line>6</line>
-          <option name="timeStamp" value="39" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/B_3052.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="40" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/B_10809.py</url>
           <line>2</line>
           <option name="timeStamp" value="42" />
@@ -455,6 +450,16 @@
           <url>file://$PROJECT_DIR$/B_10818.py</url>
           <line>9</line>
           <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/B_27866.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/B_27866.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="50" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
